@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "urbadatmcnga31.aternos.me:39063",
+    "ip": "urbadatmcnga31.aternos.me",
     "port": 39063,
     "version": "1.21.11",
     "try-creative": false
