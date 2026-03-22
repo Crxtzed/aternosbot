@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AllanSociety.aternos.me:18728",
+    "ip": "AllanSociety.aternos.me",
     "port": 18728,
     "version": "1.21.1",
     "try-creative": false
