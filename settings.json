@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "urbadatmcnga31.aternos.me",
-    "port": 39063,
+    "ip": "AllanSociety.aternos.me",
+    "port": 18728,
     "version": "1.21.11",
     "try-creative": false
   },
